@@ -1,4 +1,3 @@
-randomicraft
+RandomiCraft website project
 ============
 
-Randomicraft website
